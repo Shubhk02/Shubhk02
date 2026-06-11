@@ -52,7 +52,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**QueueRx**](https://github.com/Shubhk02) | Real-time hospital queue tracker with token generation & patient-facing wait time dashboard | AWS, Docker, REST APIs |
+| [**QueueRx**](https://github.com/Shubhk02/app) | Real-time hospital queue tracker with token generation & patient-facing wait time dashboard | AWS, Docker, REST APIs |
 | [**Financial News Sentiment Analysis**](https://github.com/Shubhk02/Financial-News-Sentiment-Analysis) | NLP pipeline to classify market sentiment from financial news headlines | Python, NLP, ML |
 | [**API Call Analysis using AI**](https://github.com/Shubhk02/API-call-analysis-using-AI-) | AI-powered tool to analyze and surface insights from API call patterns | Python, AI |
 | [**Parking Management**](https://github.com/Shubhk02/Parking-management) | Full-stack parking management system with real-time slot tracking | JavaScript |
@@ -65,7 +65,6 @@
 
 - 🥇 **AIR 7** — Technovation Challenge, IIT Kanpur
 - 🥇 **1st Place** — Trikone Unite Hackathon, SRM
-- 💎 **Google Cloud Skills** — Diamond League
 - ☁️ Oracle Cloud Foundation · Google Cloud Data Analytics · AWS Data Engineering
 - 🔬 **Patent** — Kushal Ushma Parivartan Inducer, SRMIST 2024
 
