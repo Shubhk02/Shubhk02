@@ -57,7 +57,7 @@
 | [**API Call Analysis using AI**](https://github.com/Shubhk02/API-call-analysis-using-AI-) | AI-powered tool to analyze and surface insights from API call patterns | Python, AI |
 | [**Parking Management**](https://github.com/Shubhk02/Parking-management) | Full-stack parking management system with real-time slot tracking | JavaScript |
 | [**Quizzler**](https://github.com/Shubhk02/Quizzler) | Online quiz platform with result analysis and performance tracking | Web |
-| [**DRIP**](https://github.com/Shubhk02) | IoT-based plantation monitoring system with sensor data dashboards | IoT, Looker Studio |
+| [**DRIP**](https://github.com/kg0950/DRIP-V1) | IoT-based plantation monitoring system with sensor data dashboards | IoT, Looker Studio |
 
 ---
 
