@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final year **Computer Science** student at **SRM Institute of Science and Technology**
+- 🎓 **Computer Science** Graduate from **SRM Institute of Science and Technology**
 - 🤖 Built AI-driven systems at **SRM Technology** and **Intel Unnati**
 - 🏆 **AIR 7** at Technovation Challenge, IIT Kanpur · **1st place** at Trikone Unite, SRM
 - 🔬 Published a **patent** at SRMIST for a thermoelectric energy harvesting device
